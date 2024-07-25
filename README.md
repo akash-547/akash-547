@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akash-547 and I'm a Front-End Web Developer, from Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Akash Hussain and I'm a Front-End Web Deveoper, from GB</h2>
 
 ###
 
@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://images.app.goo.gl/1raMBZS1V43
-"  />
+<img align="right" height="150" src="https://images.app.goo.gl/1raMBZS1V43XkoAH6"  />
 
 ###
 
