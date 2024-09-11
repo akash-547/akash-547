@@ -35,5 +35,5 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-547&" alt="akash-547" background-color="black" /></p>
 
 
-<p aligin="center">- 🔭 I’m currently working on NorthAims Technologies
+<p aligin="center" margin-left="5em">- 🔭 I’m currently working on NorthAims Technologies
 - 🌱 I’m currently learning Coursera</p>
