@@ -1,8 +1,7 @@
   
 <h1 align="center">Hi 👋, I'm Akash Hussain</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<h2 align="left">Hi :wave:! My name is Naeem Raza and I'm a Frontend Developer from Pakistan </h2>
-###
+<h3 align="center">A passionate frontend developer from Gilgit Baltistan</h3>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naeem-Raza110&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -33,7 +32,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-547&" alt="akash-547" /></p>
+<p align-items="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-547&" alt="akash-547" /></p>
 
 
 - 🔭 I’m currently working on NorthAims Technologies
