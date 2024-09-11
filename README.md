@@ -32,7 +32,6 @@
 <a href="https://www.youtube.com/c/kash here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kash here" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-547&show_icons=true&locale=en&layout=compact" alt="akash-547" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-547&" alt="akash-547" /></p>
 
