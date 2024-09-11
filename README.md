@@ -7,19 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-547&label=Profile%20views&color=0e75b6&style=flat" alt="akash-547" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-547" alt="akash-547" /></a> </p>
-
-- 🌱 I’m currently learning **Frameworks and coursera courses**
-
-- 👨‍💻 All of my projects are available at [https://github.com/akash-547](https://github.com/akash-547)
-
-- 💬 Ask me about **JavaScript , Html5 , CSS ,React etc.**
-
-- 📫 How to reach me **kashhussain512@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/feed/update/urn:li:activity:7191038459308888066/](https://www.linkedin.com/feed/update/urn:li:activity:7191038459308888066/)
-
-- ⚡ Fun fact **I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash hussain" height="30" width="40" /></a>
