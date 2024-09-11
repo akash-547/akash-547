@@ -1,7 +1,7 @@
- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+  
 <h1 align="center">Hi 👋, I'm Akash Hussain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://images.app.goo.gl/psxpuNMjmurQGmBaA" alt="codding">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-547&label=Profile%20views&color=0e75b6&style=flat" alt="akash-547" /> </p>
