@@ -30,17 +30,10 @@
 <a href="https://instagram.com/kashhussain-547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kashhussain-547" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kash here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kash here" height="30" width="40" /></a>
 </p>
-
+<br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-547&" alt="akash-547" background-color="black" /></p>
 
 
-- 🔭 I’m currently working on NorthAims Technologies
-- 🌱 I’m currently learning Coursera
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about .Web Development
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: FUNNY
--->
+<p aligin="center">- 🔭 I’m currently working on NorthAims Technologies
+- 🌱 I’m currently learning Coursera</p>
