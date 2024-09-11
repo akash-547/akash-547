@@ -32,9 +32,6 @@
 <a href="https://www.youtube.com/c/kash here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kash here" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/BUY ME A COFEE AKASH HUSSAIN"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BUY ME A COFEE AKASH HUSSAIN" /></a></p><br><br>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-547&show_icons=true&locale=en&layout=compact" alt="akash-547" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-547&" alt="akash-547" /></p>
